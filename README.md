@@ -1,6 +1,3 @@
-# ChitChat
-This is a Sample Android Messaging Application using MVVM, Clean Architecture and Android Architecture Components.  
-
 # <h1 align = "center">CHIT CHAT</h1>
 ### <h3 align= "center">A Simple Instant-Messaging Android App powered by Google's Firebase</h1>
 
