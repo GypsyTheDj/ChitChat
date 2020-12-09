@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connect">CONNECT</string>
+    <string name="chat">CHAT</string>
+    <string name="enjoy">ENJOY</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
