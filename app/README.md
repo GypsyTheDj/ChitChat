@@ -15,12 +15,11 @@ ChitChat is simple Android application to show the MVVM design pattern usage fol
 
 ## Under Development 🚧
 
-- Some minor improvements.
+- Some minor improvements are underway.
 
 ## Contributing 🤝
 
 Feel free to open a issue or submit a pull request for any bugs/improvements.
-
 
 #
 #
@@ -91,7 +90,7 @@ Go right ahead! Just submit a pull request when you're done.
 
 ## Pull Requests
 
-We love pull requests from everyone:
+I love pull requests from everyone:
 1. [Fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo) this repository:
 1. Clone forked repository `git clone git@github.com:YOUR-USERNAME/ChitChat.git`
 
