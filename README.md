@@ -3,7 +3,7 @@
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.4.21-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-6.7.1-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 
-ChitChat is simple Android application to show the MVVM design pattern usage following Clean Architecture approach. 
+ChitChat is a simple Android application to show the MVVM design pattern usage following Clean Architecture approach. 
 
 ## Features 🕹
 
