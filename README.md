@@ -16,11 +16,6 @@ ChitChat is a simple Android application to show the MVVM design pattern usage f
 ## Under Development 🚧
 
 - Some minor improvements are underway.
-
-## Contributing 🤝
-
-Feel free to open a issue or submit a pull request for any bugs/improvements.
-
 #
 #
 # FEATURES
