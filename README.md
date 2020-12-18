@@ -5,7 +5,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-1.4.21-blue.svg)](http://kotlinlang.org)
 [![Gradle](https://img.shields.io/badge/gradle-6.7.1-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/ChitChat/pulls)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/ChitChat/pulls)
 
 ChitChat is a simple Android application to show the MVVM design pattern usage following Clean Architecture approach.
 
@@ -115,3 +115,7 @@ Some things that will increase the chance that your pull request is accepted:
 1. Write a [good commit message](https://chris.beams.io/posts/git-commit/)
 
 ## Let's have fun 🥳🥑
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GypsyTheDj/ChitChat)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/GypsyTheDj/ChitChat)
