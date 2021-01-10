@@ -12,6 +12,8 @@
 
 ChitChat is a simple Android application to show the MVVM design pattern usage following Clean Architecture approach.
 
+<img src="https://github.com/GypsyTheDj/ChitChat/blob/master/app/src/main/res/drawable/chat_icon.png">
+
 ## Features 🕹
 
 - 100% Kotlin-only.
