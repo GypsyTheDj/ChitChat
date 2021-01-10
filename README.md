@@ -1,5 +1,7 @@
 # <h1 align = "center">CHIT CHAT</h1>
 
+<div align="center">
+
 ### <h3 align= "center">A Simple Instant-Messaging Android App powered by Google's Firebase</h1>
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.4.21-blue.svg)](http://kotlinlang.org)
@@ -13,6 +15,8 @@
 ChitChat is a simple Android application to show the MVVM design pattern usage following Clean Architecture approach.
 
 <img src="https://github.com/GypsyTheDj/ChitChat/blob/master/app/src/main/res/drawable/chat_icon.png">
+
+</div>
 
 ## Features 🕹
 
